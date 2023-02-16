@@ -1,0 +1,6 @@
+{
+    "MongoDbSettings": {
+        "ConnectionString": "your_connection_string",
+        "Database": "your_database"
+    }
+}

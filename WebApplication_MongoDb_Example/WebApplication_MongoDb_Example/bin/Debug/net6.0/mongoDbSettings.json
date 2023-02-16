@@ -1,0 +1,6 @@
+{
+    "MongoDbSettings": {
+        "ConnectionString": "mongodb+srv://admin:admin123@bigdatacluster.dkah682.mongodb.net/?retryWrites=true&w=majority",
+        "Database": "bigdataCluster"
+    }
+}
